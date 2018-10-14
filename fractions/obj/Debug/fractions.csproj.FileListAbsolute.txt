@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\bin\Debug\fractions.exe.config
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\bin\Debug\fractions.exe
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\bin\Debug\fractions.pdb
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\obj\Debug\fractions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\obj\Debug\fractions.Form1.resources
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\obj\Debug\fractions.Properties.Resources.resources
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\obj\Debug\fractions.csproj.GenerateResource.cache
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\obj\Debug\fractions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\obj\Debug\fractions.exe
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fractions\fractions\obj\Debug\fractions.pdb

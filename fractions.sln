@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fractions", "fractions\fractions.csproj", "{A22074A6-685F-45F1-B3C9-FED851CABCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22074A6-685F-45F1-B3C9-FED851CABCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22074A6-685F-45F1-B3C9-FED851CABCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22074A6-685F-45F1-B3C9-FED851CABCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22074A6-685F-45F1-B3C9-FED851CABCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F72BA131-B8A8-4C05-9AA4-F6823BB300D3}
+	EndGlobalSection
+EndGlobal
