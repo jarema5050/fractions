@@ -146,28 +146,30 @@ namespace fractions
             int output1, output2;
             int.TryParse(textBox10.Text, out output1);
             int.TryParse(textBox9.Text, out output2);
+            int.TryParse(textBox1.Text, out first.numerator);
+            int.TryParse(textBox2.Text, out first.denominator);
+            int.TryParse(textBox3.Text, out second.numerator);
+            int.TryParse(textBox4.Text, out second.denominator);
+            if (first.denominator == 0)
+            {
+                first.denominator = 1;
+            }
+            if (second.denominator==0)
+            {
+                second.denominator = 1;
+            }
             if (output1!=0)
                 {
-                first.numerator = int.Parse(textBox1.Text);
-                first.denominator = int.Parse(textBox2.Text);
+                
                 first.numerator = first.numerator + (output1*first.denominator);
             }
-            else
-            {
-                    first.numerator = int.Parse(textBox1.Text);
-                    first.denominator = int.Parse(textBox2.Text);
-            }
+           
             if (output2!=0)
             {
-                second.numerator = int.Parse(textBox3.Text);
-                second.denominator = int.Parse(textBox4.Text);
+             
                 second.numerator = second.numerator+(output2*second.denominator);
             }
-           else
-            { 
-                second.numerator = int.Parse(textBox3.Text);
-                second.denominator = int.Parse(textBox4.Text);
-            }
+          
         }
         public void clear()
         {   if (textBox8.Text=="0" & textBox5.Text!="0")
